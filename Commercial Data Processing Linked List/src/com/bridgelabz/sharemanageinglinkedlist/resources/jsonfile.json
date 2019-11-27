@@ -1,0 +1,22 @@
+[
+	{
+		"stockname": "hero",
+		"sharenumber": 55,
+		"shareprice": 20000.0
+	},
+	{
+		"stockname": "honda",
+		"sharenumber": 400,
+		"shareprice": 25000.0
+	},
+	{
+		"stockname": "bajaj",
+		"sharenumber": 35,
+		"shareprice": 12000.0
+	},
+	{
+		"stockname": "duke",
+		"sharenumber": 74,
+		"shareprice": 12000.0
+	}
+]

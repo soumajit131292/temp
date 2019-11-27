@@ -1,0 +1,26 @@
+[
+	{
+		"stockname": "hero",
+		"sharenumber": 345,
+		"shareprice": 20000.0,
+	  "localTime": "16:53:26.577726",
+		"stockChanges": "buy",
+		"datetime": "2019-08-10"
+	},
+	{
+		"stockname": "honda",
+		"sharenumber": 35,
+		"shareprice": 20000.0,
+	  "localTime": "16:53:26.577726",
+		"stockChanges": "buy",
+		"datetime": "2019-08-10"
+	},
+	{
+		"stockname": "bajaj",
+		"sharenumber": 35,
+		"shareprice": 3000.0,
+	  "localTime": "16:53:26.577726",
+		"stockChanges": "buy",
+		"datetime": "2019-08-10"
+	}
+]
